@@ -1,5 +1,7 @@
+//import express
 var express = require("express");
 var app = express();
+//import api router
 const apiRoutes = require("./routes/apiRoute.js");
 
 
